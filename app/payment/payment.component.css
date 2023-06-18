@@ -1,0 +1,13 @@
+.box{
+    padding-top: 30px;
+    height: 630px;
+    width: 1500px;
+    background-image: url("img/pay.jpg");
+    padding: 20px;
+    background-size:cover ;
+}
+
+.btn{
+    box-shadow: 2px 4px 8px 24px rgba(218, 214, 214, 0.8);
+    z-index: 1;
+  }

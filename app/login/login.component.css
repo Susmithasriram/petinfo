@@ -1,0 +1,59 @@
+@import "~bootstrap-icons/font/bootstrap-icons.css";
+
+.back{
+    background-image: url("image/back5.jpg");
+    padding: 50px;
+    background-size:cover ;
+}
+
+.box{
+    height: 700px;
+    width: 600px;
+   /* background-color: blue; */
+    padding: 20px;
+    border-radius: 30px;
+    box-shadow: 0px 8px 16px 24px rgba(218, 214, 214, 0.8);
+    z-index: 2;
+}
+.cent{
+    padding-left: 190px;
+}
+.cent2{
+    padding-left: 80px;
+}
+.bor{
+   
+    border-radius: 30px;
+}
+.colo{
+    color:rgb(16, 16, 83);
+    font-style:inherit;
+    font-size:50px;
+}
+.fnt{
+    font-size: 30px;
+    font-style: inherit;
+}
+.par{
+    font-size: 19px;
+    font-style: inherit;
+    font-weight: 10;
+}
+.ent{
+    height: 40px;
+    width: 400px;
+    border-color:rgb(16, 16, 83) ;
+    border-radius: 10px;
+   
+}
+.btn{
+    
+    /* background-color: rgb(16, 16, 83) ;  */
+    box-shadow: 0px 2px 4px 0px rgba(218, 214, 214, 0.8);
+      z-index: 1;
+    height: 40px;
+    width: 400px;
+   border-radius: 10px;
+   
+
+}

@@ -1,0 +1,127 @@
+@import "~bootstrap-icons/font/bootstrap-icons.css";
+
+
+
+
+
+
+ .head {
+  background: linear-gradient(135deg, rgb(16, 16, 83), #9b59b6);
+    height: 140px;
+    width: 100%;
+    display: flex;
+   
+  }
+  .sty{
+    font-style: inherit;
+   color:white;
+   padding: 50px;
+  
+  }
+  .srch{
+   padding: 56px;
+   width:85% ;
+   
+  }
+  .ic{
+    padding: 50px;
+    padding-right: 70px;
+
+  }
+  .dropbtn {
+  background-color: #9b59b6;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    outline-color: transparent;
+    outline-style:solid;
+  }
+  
+  /* The container <div> - needed to position the dropdown content */
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  /* Dropdown Content (Hidden by Default) */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    border-radius:10px; 
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  /* Change color of dropdown links on hover */
+  .dropdown-content a:hover {background-color: #ddd;}
+  
+  /* Show the dropdown menu on hover */
+  .dropdown:hover .dropdown-content {display: block;}
+  
+  /* Change the background color of the dropdown button when the dropdown content is shown */
+  /* .dropdown:hover .dropbtn {background-color: #3e8e41;} */
+  
+  .hea {
+    background: linear-gradient(135deg, rgb(16, 16, 83), #9b59b6);
+      height: 60px;
+      width: 100%;
+      display: flex;
+     
+    }
+    .hom{
+      padding: 10px;
+      padding-left: 200px;
+      
+    }
+    .food{
+      padding: 10px;
+      padding-left: 500px;
+    }
+    .health{
+      padding:10px;
+      padding-left: 400px;
+    }
+
+
+
+.bullb{
+    height: 550px;
+    width: 90%;
+   /* background-color: blue; */
+    padding: 50px;
+    margin-left: 80px;
+    border-radius: 30px;
+    box-shadow: 0px 2px 4px 0px rgba(218, 214, 214, 0.8);
+    z-index: 1;
+  }
+  .norm{
+    float: left;
+  width: 33.33%;
+  padding: 5px;
+  }
+  .norm2{
+    float: left;
+  width: 33.33%;
+  padding: 5px;
+  padding-left: 100px;
+  }
+  .colo{
+    color:rgb(16, 16, 83);
+    font-style:inherit;
+    font-size:80px;
+    padding-left: 90px;
+}
+.par{
+  font-size:25px;
+  padding-left: 90px;
+}
